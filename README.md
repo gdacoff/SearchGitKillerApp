@@ -50,5 +50,5 @@
 
 ---
 <div align="center">
-  <i>Разработано с ❤️ от <b>gdacoff</b></i>
+  <i>Разработано с ❤️ от <b>KillerZero</b></i>
 </div>
